@@ -5,7 +5,7 @@
 #
 # Date: 2017-10-30
 # Authors: Taylor Arnold <taylor.arnold@acm.org>
-# Data URL:
+# Data URL: https://github.com/statsmaths/beyond-lexical-frequencies
 
 # Load the packages
 library(cleanNLP)
@@ -79,7 +79,7 @@ sprintf("%s => %s", cc$country, cc$entity)
 # [1] stats     graphics  grDevices utils     datasets  methods   base
 #
 # other attached packages:
-# [1] dplyr_0.7.4     readtext_0.50   stringi_1.1.5   cleanNLP_1.10.4
+# [1] dplyr_0.7.4     readtext_0.50   stringi_1.1.5   cleanNLP_1.10.5
 #
 # loaded via a namespace (and not attached):
 #  [1] Rcpp_0.12.13        assertthat_0.2.0    R6_2.2.2
